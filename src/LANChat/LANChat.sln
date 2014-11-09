@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANChat", "LANChat\LANChat.csproj", "{661A0F76-4450-463D-A395-9D44BD2BB723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANChat.Server", "LANChat.Server\LANChat.Server.csproj", "{5B3CB93D-C7FD-4061-B605-9395CC947ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANChat.Common", "LANChat.Common\LANChat.Common.csproj", "{12BC550D-95C4-494D-9EC1-5A6FED414FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANChat.Client", "LANChat.Client\LANChat.Client.csproj", "{954A246F-FD3E-4208-9357-DBE518519821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661A0F76-4450-463D-A395-9D44BD2BB723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661A0F76-4450-463D-A395-9D44BD2BB723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661A0F76-4450-463D-A395-9D44BD2BB723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661A0F76-4450-463D-A395-9D44BD2BB723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3CB93D-C7FD-4061-B605-9395CC947ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3CB93D-C7FD-4061-B605-9395CC947ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3CB93D-C7FD-4061-B605-9395CC947ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3CB93D-C7FD-4061-B605-9395CC947ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BC550D-95C4-494D-9EC1-5A6FED414FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BC550D-95C4-494D-9EC1-5A6FED414FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BC550D-95C4-494D-9EC1-5A6FED414FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BC550D-95C4-494D-9EC1-5A6FED414FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954A246F-FD3E-4208-9357-DBE518519821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954A246F-FD3E-4208-9357-DBE518519821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954A246F-FD3E-4208-9357-DBE518519821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954A246F-FD3E-4208-9357-DBE518519821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
